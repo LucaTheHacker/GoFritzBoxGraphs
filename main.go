@@ -1,3 +1,13 @@
+/*
+ * GoFritzBoxGraphs
+ * Copyright (C) 2020-2020 Dametto Luca <https://damettoluca.com>
+ *
+ * main.go is part of GoFritzBoxGraphs
+ *
+ * You should have received a copy of the GNU Affero General Public License v3.0 along with GoFritzBoxGraphs.
+ * If not, see <https://github.com/LucaTheHacker/GoFritzBoxGraphs/blob/main/LICENSE>.
+ */
+
 package main
 
 import (
